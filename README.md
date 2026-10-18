@@ -1,6 +1,6 @@
 # ShopSmart Retail Sales Analysis
 
-**AnalystLab Africa Experience Lab — Week 1**
+**AnalystLab Africa Experience Lab**
 
 ## Project Overview
 
